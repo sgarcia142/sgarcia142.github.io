@@ -2,24 +2,7 @@
 title: "STA6443 Final Exam"
 author: "Stephen Garcia (wqr974)"
 date: "November 21, 2024"
-format:
-  html:
-    theme: lux
-    embed-resources: true
-    grid:
-      sidebar-width: 0px
-      body-width: 2000px
-      margin-width: 0px
-      gutter-width: 1.5rem    
-execute: 
-  eval: true
-  echo: true
-  message: false
-engine: knitr
-knitr:
-  opts_chunk: 
-    R.options:
-      width: 170  
+format: gfm
 ---
 
 ```{r}
