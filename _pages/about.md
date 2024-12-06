@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Seasoned data analyst with a passion for transforming complex data into compelling narratives."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -16,7 +16,11 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Hello there! I'm Stephen, a dedicated and experienced data analyst with a passion for transforming complex data into compelling narratives. At 53, I bring a wealth of life experience and a fresh academic background, having graduated magna cum laude with a degree in Computer Science, concentrating in Data Science, from the University of Texas at San Antonio in 2021. My educational journey is ongoing as I am currently pursuing a Master's in Data Analytics.
+
+I have honed my skills in [mention any relevant tools or programming languages, e.g., Python, R, SQL, Tableau], and I thrive on turning data-driven insights into actionable strategies. My unique perspective combines both practical experience and cutting-edge academic knowledge, allowing me to uncover hidden patterns, solve intricate problems, and support decision-making processes with precision and clarity.
+
+When I'm not diving into data sets, I cherish spending time with my wonderful wife and our two adorable Pugs, CoCo and Percy. I also enjoy [mention any other relevant hobbies or interests, e.g., exploring new technologies, reading up on the latest in data science, or hiking in the great outdoors]. Let's connect and explore how we can harness the power of data together!
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
