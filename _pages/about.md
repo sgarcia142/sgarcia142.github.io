@@ -13,7 +13,7 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 last_modified_at: 2022-05-27T11:59:26-04:00
-toc: true
+toc: false
 ---
 
 Hello there! I'm Stephen, a dedicated and experienced data analyst with a passion for transforming complex data into compelling narratives. At 53, I bring a wealth of life experience and a fresh academic background, having graduated magna cum laude with a degree in Computer Science, concentrating in Data Science, from the University of Texas at San Antonio in 2021. My educational journey is ongoing as I am currently pursuing a Master's in Data Analytics.
