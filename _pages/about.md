@@ -18,13 +18,12 @@ toc: true
 
 Hello there! I'm Stephen, a dedicated and experienced data analyst with a passion for transforming complex data into compelling narratives. At 53, I bring a wealth of life experience and a fresh academic background, having graduated magna cum laude with a degree in Computer Science, concentrating in Data Science, from the University of Texas at San Antonio in 2021. My educational journey is ongoing as I am currently pursuing a Master's in Data Analytics.
 
-I have honed my skills in [mention any relevant tools or programming languages, e.g., Python, R, SQL, Tableau], and I thrive on turning data-driven insights into actionable strategies. My unique perspective combines both practical experience and cutting-edge academic knowledge, allowing me to uncover hidden patterns, solve intricate problems, and support decision-making processes with precision and clarity.
+I have honed my skills in SQL, Python, R, Tableau, and Power BI, and I thrive on turning data-driven insights into actionable strategies. My unique perspective combines both practical experience and cutting-edge academic knowledge, allowing me to uncover hidden patterns, solve intricate problems, and support decision-making processes with precision and clarity.
 
-When I'm not diving into data sets, I cherish spending time with my wonderful wife and our two adorable Pugs, CoCo and Percy. I also enjoy [mention any other relevant hobbies or interests, e.g., exploring new technologies, reading up on the latest in data science, or hiking in the great outdoors]. Let's connect and explore how we can harness the power of data together!
+When I'm not diving into data sets, I cherish spending time with my wonderful wife and our two adorable Pugs, CoCo and Percy. I also enjoy our annual trip to Colorado where we spend time with family, hike, and fish in the beautiful Rocky Mountains. Let's connect and explore how we can harness the power of data together!
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+{% include gallery id="layouts_gallery" caption="Outside of work `Coco`, `Percy`, and `Colorado`." %}
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
 ## Notable Features
 
