@@ -11,9 +11,10 @@ layouts_gallery:
     alt: "Chloe and Percy"
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
-toc: false
+    alt: "Colorado"
+last_modified_at: 2024-12-07T11:59:26-04:00
+toc: true
+toc_icon: "cog"
 ---
 
 Hello there! I'm Stephen, a dedicated and experienced data analyst with a passion for transforming complex data into compelling narratives. At 53, I bring a wealth of life experience and a fresh academic background, having graduated magna cum laude with a degree in Computer Science, concentrating in Data Science, from the University of Texas at San Antonio in 2021. My educational journey is ongoing as I am currently pursuing a Master's in Data Analytics.
@@ -25,11 +26,11 @@ When I'm not diving into data sets, I cherish spending time with my wonderful wi
 {% include gallery id="layouts_gallery" caption="Outside of work `Coco`, `Percy`, and `Colorado`." %}
 
 
-## Notable Features
+## Career Highlights
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
+- In 2000, I was hired as contract developer for Muzicom, a technology company specializing in Visual Basic and ColdFusion applications.
+- Quickly constructed intranet applications for the company's clients, including a custom Annual Enrollment system for AT&T Executives.
+- In May of 2001, I was hired as a full-time employee and promoted to Applications Developer.
 - Nine different skins (color variations).
 - Several responsive layout options (single, archive index, search, splash, and paginated home page).
 - Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
