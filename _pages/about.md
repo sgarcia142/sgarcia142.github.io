@@ -3,12 +3,12 @@ permalink: /about/
 title: "About"
 excerpt: "Seasoned data analyst with a passion for transforming complex data into compelling narratives."
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
+  - url: /assets/images/coco_pp_1.jpg
+    image_path: /assets/images/coco_pp_1.jpg
+    alt: "Chloe and Percy"
+  - url: /assets/images/coco_pp_2.jpg
+    image_path: /assets/images/coco_pp_2.jpg
+    alt: "Chloe and Percy"
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
