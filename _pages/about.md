@@ -9,8 +9,8 @@ layouts_gallery:
   - url: /assets/images/coco_pp_2.jpg
     image_path: /assets/images/coco_pp_2.jpg
     alt: "Chloe and Percy"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
+  - url: /assets/images/Colorado.jpg
+    image_path: /assets/images/Colorado.jpg
     alt: "Colorado"
 last_modified_at: 2024-12-07T11:59:26-04:00
 toc: true
