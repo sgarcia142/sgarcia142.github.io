@@ -21,8 +21,8 @@ title                    : "Seasoned Insights"
 title_separator          : "-"
 subtitle                 : "A Fresh Journey into Data Science" # site tagline that appears below site title in masthead
 name                     : "Stephen Garcia"
-description              : "An amazing website."
-url                      : https://sgarcia142.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A Fresh Journey into Data Science, Machine Learning, and Analytics"
+url                      : "https://sgarcia142.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sgarcia142/sgarcia142.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -323,6 +323,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
 
   # _pages
   - scope:
