@@ -19,7 +19,7 @@ toc_icon: "id-card"
 
 <p>Hello there! I'm Stephen, a dedicated and experienced data analyst with a passion for transforming complex data into compelling narratives. At 53, I bring a wealth of life experience and a fresh academic background, having graduated magna cum laude with a degree in Computer Science, concentrating in Data Science, from the University of Texas at San Antonio in 2021. My educational journey is ongoing as I am currently pursuing a Master's in Data Analytics.</p>
 
-<p>I have honed my skills in **SQL**, **Python**, **R**, **Tableau**, and **Power BI**, and I thrive on turning data-driven insights into actionable strategies. My unique perspective combines both practical experience and cutting-edge academic knowledge, allowing me to uncover hidden patterns, solve intricate problems, and support decision-making processes with precision and clarity.</p>
+<p>I have honed my skills in <b>SQL</b>, Python, R, Tableau, and Power BI, and I thrive on turning data-driven insights into actionable strategies. My unique perspective combines both practical experience and cutting-edge academic knowledge, allowing me to uncover hidden patterns, solve intricate problems, and support decision-making processes with precision and clarity.</p>
 
 <p>When I'm not diving into data sets, I cherish spending time with my wonderful wife and our two adorable Pugs, CoCo and Percy. I also enjoy our annual trip to Colorado where we spend time with family, hike, and fish in the beautiful Rocky Mountains. Let's connect and explore how we can harness the power of data together!</p>
 
@@ -28,7 +28,8 @@ toc_icon: "id-card"
 
 ## Career Highlights
 
-- In 2000, I was hired as contract developer for Muzicom, a technology company specializing in Visual Basic and ColdFusion applications.
+- Muzicom 2000 - 2001 
+In 2000, I was hired as contract developer for Muzicom, a technology company specializing in Visual Basic and ColdFusion applications.
     - Quickly constructed intranet applications for the company's clients, including a custom Annual Enrollment system for AT&T Executives.
 - In May of 2001, I was hired as a full-time employee and promoted to Applications Developer.
 - Nine different skins (color variations).
