@@ -1,3 +1,7 @@
+---
+tags: R ChatGPT
+---
+
 # Nightly Practice ChatGPT
 Stephen Garcia (wqr974)
 2024-11-29
