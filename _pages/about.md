@@ -19,22 +19,27 @@ toc_icon: "id-card"
 
 <p>Hello there! I'm Stephen, a dedicated and experienced data analyst with a passion for transforming complex data into compelling narratives. At 53, I bring a wealth of life experience and a fresh academic background, having graduated magna cum laude with a degree in Computer Science, concentrating in Data Science, from the University of Texas at San Antonio in 2021. My educational journey is ongoing as I am currently pursuing a Master's in Data Analytics.</p> 
 
-{: $type-size-7}
-
 <p>I have honed my skills in <b>SQL</b>, <b>Python</b>, <b>R</b>, <b>Tableau</b>, and <b>Power BI</b>, and I thrive on turning data-driven insights into actionable strategies. My unique perspective combines both practical experience and cutting-edge academic knowledge, allowing me to uncover hidden patterns, solve intricate problems, and support decision-making processes with precision and clarity.</p>
 
 <p>When I'm not diving into data sets, I cherish spending time with my wonderful wife and our two adorable Pugs, CoCo and Percy. I also enjoy our annual trip to Colorado where we spend time with family, hike, and fish in the beautiful Rocky Mountains. Let's connect and explore how we can harness the power of data together!</p>
 
 {% include gallery id="layouts_gallery" caption="Outside of work `Coco`, `Percy`, and `Colorado`." %}
 
-
 ## Career Highlights
 
+- AT&T Mobility - Protection Services December 2011 - October 2024 
+    - Develop, manage, and maintain the company's internal analytical DataMart, which provides data to the company's Protection Services team.
+    - Develop and maintain the company's internal analytical DataMart, which provides data to the company's Protect Advantage Insurance program.
+    - Perform computational analysis on sales, disconnects, churn, and other key metrics to provide insights to the company's Protection Services team.
+    - Develop and maintain cohort analytical processes to illuminate sensitivities in the company's Protection Services programs.
+    - Perform ad-hoc analysis of current and historical data to provide insights to the company's Protection Services team.
+- AT&T Executive Compensation May 2001 - December 2011 
+    - Lead developer for the AT&T Executive Compensation team, responsible for the development and maintenance of the company's Executive Compensation (ECSIA) systems.
+    - ECSIA utilized by 8000 senior executives to view and manage their compensation and benefits.
+    - Mechanized multiple manual processes including Annual Enrollment, Stock Option and Deferred Compensation Plans, Executive Movement, Executive Correspondence, and Executive Compensation.
 - Muzicom 2000 - 2001 
-In 2000, I was hired as contract developer for Muzicom, a technology company specializing in Visual Basic and ColdFusion applications.
+    - In 2000, I was hired as contract developer for Muzicom, a technology company specializing in Visual Basic and ColdFusion applications.
     - Quickly constructed intranet applications for the company's clients, including a custom Annual Enrollment system for AT&T Executives.
-- In May of 2001, I was hired as a full-time employee and promoted to Applications Developer.
-
 
 ## Demo Pages
 
