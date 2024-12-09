@@ -28,7 +28,6 @@ toc_icon: "id-card"
 ## Career Highlights
 
 - AT&T Mobility - Protection Services December 2011 - October 2024 
-    - Develop, manage, and maintain the company's internal analytical DataMart, which provides data to the company's Protection Services team.
     - Develop and maintain the company's internal analytical DataMart, which provides data to the company's Protect Advantage Insurance program.
     - Perform computational analysis on sales, disconnects, churn, and other key metrics to provide insights to the company's Protection Services team.
     - Develop and maintain cohort analytical processes to illuminate sensitivities in the company's Protection Services programs.
@@ -58,26 +57,15 @@ toc_icon: "id-card"
 
 ---
 
-## Credits
+## Future Goals 
+What do I hope to achieve in the future? 
 
-### Icons + Demo Images:
+### Family
+Family has always been my top priority, a commitment that was put to the test when I faced a difficult choice between continuing my career at AT&T and relocating, or staying close to my family. I chose the latter, understanding the critical support my sister, who has cerebral palsy, needed. My wife would have had to leave her career and family as well, and it was vital for us to be present and supportive. This decision reaffirmed my belief that family comes first, and it has guided me through every professional and personal choice I've made since.
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
+### Career 
+As a dedicated data analyst with a rich background in web development and data engineering, I am eager to embark on a new career that fully leverages my expertise in data analytics. I am passionate about applying my skills to new challenges and opportunities, making meaningful contributions to the field and helping organizations thrive in a data-driven world.
 
-### Other:
+### Education 
+I am deeply committed to completing my Master's in Data Analytics at the University of Texas at San Antonio, as it represents a crucial step in my professional evolution. This advanced degree will not only enhance my technical skills and analytical capabilities but also empower me to tackle complex data challenges with greater confidence and precision.
 
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
