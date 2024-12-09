@@ -17,7 +17,9 @@ toc: true
 toc_icon: "id-card"
 ---
 
-<p>Hello there! I'm Stephen, a dedicated and experienced data analyst with a passion for transforming complex data into compelling narratives. At 53, I bring a wealth of life experience and a fresh academic background, having graduated magna cum laude with a degree in Computer Science, concentrating in Data Science, from the University of Texas at San Antonio in 2021. My educational journey is ongoing as I am currently pursuing a Master's in Data Analytics.</p>
+<p>Hello there! I'm Stephen, a dedicated and experienced data analyst with a passion for transforming complex data into compelling narratives. At 53, I bring a wealth of life experience and a fresh academic background, having graduated magna cum laude with a degree in Computer Science, concentrating in Data Science, from the University of Texas at San Antonio in 2021. My educational journey is ongoing as I am currently pursuing a Master's in Data Analytics.</p> 
+
+{: .small}
 
 <p>I have honed my skills in <b>SQL</b>, <b>Python</b>, <b>R</b>, <b>Tableau</b>, and <b>Power BI</b>, and I thrive on turning data-driven insights into actionable strategies. My unique perspective combines both practical experience and cutting-edge academic knowledge, allowing me to uncover hidden patterns, solve intricate problems, and support decision-making processes with precision and clarity.</p>
 
