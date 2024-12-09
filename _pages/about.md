@@ -48,15 +48,13 @@ toc_icon: "id-card"
 
 ## Education
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][nightly_practice_chatgpt] | Nightly Chat GPT Lessons. |
+<p>My journey into the world of technology began with a passion for self-teaching. Driven by curiosity and a desire to understand how the digital world worked, I started learning web development on my own. This self-driven education opened the door to an exciting career opportunity with AT&T in 2001, where I spent the next ten years honing my skills and making significant contributions.</p>
 
+<p>As the tech landscape evolved, so did my interests. I found myself drawn to the burgeoning field of data engineering, and I decided to pivot within AT&T to explore this new passion. The thirst for knowledge and the realization of the importance of formal education led me back to academia in 2017. I returned to the University of Texas at San Antonio, determined to deepen my understanding and formalize my expertise.</p>
 
-For even more demo pages check the [posts archive][year-archive].
+<p>Balancing work and studies, I embarked on a rigorous academic journey, ultimately earning a Bachelor of Science in Computer Science with a concentration in Data Science in 2021. Graduating magna cum laude was a testament to my dedication and perseverance, and it reaffirmed my commitment to continuous learning.</p>
 
-[nightly_practice_chatgpt]: {{ "" | relative_url }}{% post_url 2024-12-04-nightly_practice_chatgpt %}
-
+<p>Not one to rest on my laurels, I am currently pursuing a Master's in Data Analytics at UTSA. This advanced degree is a part of my ongoing evolution towards a data-centric career, equipping me with the tools and knowledge to tackle complex data challenges and contribute to the field's growth.</p>
 
 ---
 
