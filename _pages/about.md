@@ -41,9 +41,9 @@ toc_icon: "id-card"
     - In 2000, I was hired as contract developer for Muzicom, a technology company specializing in Visual Basic and ColdFusion applications.
     - Quickly constructed intranet applications for the company's clients, including a custom Annual Enrollment system for AT&T Executives.
 
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
+> If you do not know how to ask the right question, you know nothing
 
-<cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
+<cite>W. Edward Deming</cite>
 {: .small}
 
 ## Education
