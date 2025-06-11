@@ -128,7 +128,7 @@ numbers[length(numbers)]
 ``` r
 # Exercise
 # 1. Create a vector of your favorite numbers and perform arithmetic operations on it.
-fav_numbers <- c(3, 10, 23, 71, 82, 88)
+fav_numbers <- c(3, 10, 23, 71, 82, 88, 99)
 fav_numbers * 2
 ```
 
