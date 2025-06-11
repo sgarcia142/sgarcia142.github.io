@@ -1,7 +1,3 @@
----
-tags: R ChatGPT
----
-
 # Nightly Practice ChatGPT
 Stephen Garcia (wqr974)
 2024-11-29
@@ -132,7 +128,7 @@ fav_numbers <- c(3, 10, 23, 71, 82, 88, 99)
 fav_numbers * 2
 ```
 
-    [1]   6  20  46 142 164 176
+    [1]   6  20  46 142 164 176 198
 
 ``` r
 # 2. Create a vector of your favorite hobbies and access the second element of the vector.
@@ -161,7 +157,7 @@ fav_numbers[c(2, 4)] + 10
 fav_numbers[fav_numbers > 20] * 2
 ```
 
-    [1]  46 142 164 176
+    [1]  46 142 164 176 198
 
 ``` r
 # 6. Subtract 5 from all elements between 10 and 30 in fav_numbers.
