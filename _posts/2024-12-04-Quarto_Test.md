@@ -7,4 +7,4 @@ Stephen Garcia (wqr974)
 ## Part 1: Definition (20 Points)
 
 Define the following terms and where appropriate compare and contrast
-with the alternative method.
+with the alternative method. Test.
